@@ -1,5 +1,3 @@
-I'll update the README for your 3D Engine project by adding the output URL to the existing content.
-
 # 3dEngine - Software Rendering from Scratch
 
 ## Overview
