@@ -1,3 +1,5 @@
+I'll update the README for your 3D Engine project by adding the output URL to the existing content.
+
 # 3dEngine - Software Rendering from Scratch
 
 ## Overview
@@ -27,13 +29,13 @@ Tiny Renderer is a simple software-based rendering engine implemented in C++. Th
 
 ### Compilation
 ```sh
- g++ main.cpp -o renderer
- ./renderer
+g++ main.cpp -o renderer
+./renderer
 ```
 
 ### Output
-- The generated image will be saved as `output.ppm`.
-- Use an image viewer that supports `.ppm` format to visualize the rendering.
+- The generated image will be saved as `output.png`.
+- Example output: ![Triangle rendering](https://github.com/vankaSiddhartha/3dEngine/blob/main/output/triangle.png?raw=true)
 
 ## Future Enhancements
 - Implementing anti-aliasing techniques
@@ -44,6 +46,3 @@ Tiny Renderer is a simple software-based rendering engine implemented in C++. Th
 ## References
 - [Tiny Renderer Wiki](https://github.com/ssloy/tinyrenderer/wiki)
 - Computer graphics books and resources
-
-
-
