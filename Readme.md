@@ -33,7 +33,7 @@ g++ main.cpp -o renderer
 
 ### Output
 - The generated image will be saved as `output.png`.
-- Example output: ![Triangle rendering](https://github.com/vankaSiddhartha/3dEngine/blob/main/output/triangle.png?raw=true)
+ output: ![Triangle rendering](https://github.com/vankaSiddhartha/3dEngine/blob/main/output/triangle.png?raw=true)
 
 ## Future Enhancements
 - Implementing anti-aliasing techniques
